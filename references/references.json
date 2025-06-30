@@ -82,5 +82,26 @@
     "Year": 2023,
     "DOI": "",
     "Link": "https://qmrawiki.canr.msu.edu/index.php/Legionella_pneumophila"
+  }, 
+  "REF_EXP_SHOWER": {
+    "Author": "US EPA",
+    "Title": "Exposure Factors Handbook",
+    "Year": 2011,
+    "DOI": "",
+    "Link": "https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=236252"
+  },
+  "REF_EXP_WHO": {
+    "Author": "WHO",
+    "Title": "Guidelines for the safe use of wastewater, excreta and greywater",
+    "Year": 2006,
+    "DOI": "",
+    "Link": "https://www.who.int/publications/i/item/9241546859"
+  },
+  "REF_EXP_HAAS": {
+    "Author": "Haas et al.",
+    "Title": "Quantitative Microbial Risk Assessment, 2nd Edition",
+    "Year": 2014,
+    "DOI": "",
+    "Link": ""
   }
 }
