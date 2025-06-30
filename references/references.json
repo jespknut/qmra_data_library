@@ -103,5 +103,26 @@
     "Year": 2014,
     "DOI": "",
     "Link": ""
+  },
+  "REF_TREAT_WHO": {
+    "Author": "WHO",
+    "Title": "Guidelines for the safe use of wastewater, excreta and greywater, Volume 4",
+    "Year": 2006,
+    "DOI": "",
+    "Link": "https://www.who.int/publications/i/item/9241546859"
+  },
+  "REF_TREAT_EPA_UV": {
+    "Author": "US EPA",
+    "Title": "LT2ESWTR Disinfection Guidance Manual",
+    "Year": 2006,
+    "DOI": "",
+    "Link": "https://nepis.epa.gov/Exe/ZyPDF.cgi/P1004X6Y.PDF?Dockey=P1004X6Y.PDF"
+  },
+  "REF_TREAT_HAAS": {
+    "Author": "Haas et al.",
+    "Title": "Quantitative Microbial Risk Assessment, 2nd Edition",
+    "Year": 2014,
+    "DOI": "",
+    "Link": ""
   }
 }
