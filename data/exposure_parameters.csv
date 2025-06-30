@@ -1,0 +1,7 @@
+Activity,Volume_L,Frequency_per_year,Exposure_route,Reference_ID,Notes
+Shower,0.001,365,Ingestion,REF_EXP_SHOWER,
+Toilet flushing,0.00001,1000,Ingestion,REF_EXP_WHO,
+Handwashing,0.00001,400,Ingestion,REF_EXP_WHO,"Values also consistent with Haas et al."
+Irrigation,0.0005,60,Ingestion,REF_EXP_WHO,
+Dishwashing,0.0005,300,Ingestion,REF_EXP_WHO,
+Spray irrigation,0.0002,240,Inhalation or dermal,REF_EXP_WHO,"Potential for aerosol exposure"
