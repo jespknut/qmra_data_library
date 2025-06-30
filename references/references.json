@@ -124,5 +124,40 @@
     "Year": 2014,
     "DOI": "",
     "Link": ""
+  },
+  "REF_OCC_SCITOTENV_2014": {
+    "Author": "Li et al.",
+    "Title": "Greywater characteristics and treatment performance...",
+    "Year": 2014,
+    "DOI": "10.1016/j.scitotenv.2014.11.051",
+    "Link": "https://doi.org/10.1016/j.scitotenv.2014.11.051"
+  },
+  "REF_OCC_WST_2004": {
+    "Author": "Ottoson & Stenström",
+    "Title": "Faecal contamination of greywater and associated microbial risks...",
+    "Year": 2004,
+    "DOI": "10.2166/wst.2004.0115",
+    "Link": "https://doi.org/10.2166/wst.2004.0115"
+  },
+  "REF_OCC_ENV_MONITOR_2006": {
+    "Author": "Eriksson et al.",
+    "Title": "Greywater analysis and microbial risks...",
+    "Year": 2006,
+    "DOI": "10.1007/s10661-006-9427-y",
+    "Link": "https://doi.org/10.1007/s10661-006-9427-y"
+  },
+  "REF_OCC_WATER_AIR_SOIL_2008": {
+    "Author": "Al-Jamal & Mahmoud",
+    "Title": "Irrigation with treated wastewater and health risks...",
+    "Year": 2008,
+    "DOI": "10.1007/s11270-008-9874-x",
+    "Link": "https://doi.org/10.1007/s11270-008-9874-x"
+  },
+  "REF_OCC_SCITOTENV_2023": {
+    "Author": "Tang et al.",
+    "Title": "Occurrence of enteric viruses in greywater...",
+    "Year": 2023,
+    "DOI": "10.1016/j.scitotenv.2023.169863",
+    "Link": "https://doi.org/10.1016/j.scitotenv.2023.169863"
   }
 }
